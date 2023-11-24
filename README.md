@@ -1,2 +1,3 @@
 # discord-qr-code-generator
-Codementor project -> Discord bot: QR code generator
+Test project from Codementor
+Project title => Discord bot: QR code generator
